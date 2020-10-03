@@ -187,5 +187,10 @@
         <tab>standard-WorkTypeGroup</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Architect__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <userLicense>Salesforce</userLicense>
 </Profile>
